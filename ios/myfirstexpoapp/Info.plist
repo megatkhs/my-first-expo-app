@@ -7,7 +7,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>$(DEVELOPMENT_LANGUAGE)</string>
     <key>CFBundleDisplayName</key>
-    <string>my-first-expo-app</string>
+    <string>はじめてのExpoアプリ(DEV)</string>
     <key>CFBundleExecutable</key>
     <string>$(EXECUTABLE_NAME)</string>
     <key>CFBundleIdentifier</key>
@@ -28,13 +28,13 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>myfirstexpoapp</string>
-          <string>com.anonymous.myfirstexpoapp</string>
+          <string>com.megatkhs.myfirstexpoapp</string>
         </array>
       </dict>
       <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>exp+my-first-expo-app</string>
+          <string>exp+dev</string>
         </array>
       </dict>
     </array>

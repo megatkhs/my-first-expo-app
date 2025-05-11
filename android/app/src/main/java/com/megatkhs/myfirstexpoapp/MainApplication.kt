@@ -1,4 +1,4 @@
-package com.anonymous.myfirstexpoapp
+package com.megatkhs.myfirstexpoapp
 
 import android.app.Application
 import android.content.res.Configuration

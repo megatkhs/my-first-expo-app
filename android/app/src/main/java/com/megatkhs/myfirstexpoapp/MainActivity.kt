@@ -1,4 +1,4 @@
-package com.anonymous.myfirstexpoapp
+package com.megatkhs.myfirstexpoapp
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

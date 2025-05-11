@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.anonymous.myfirstexpoapp'
+    namespace 'com.megatkhs.myfirstexpoapp'
     defaultConfig {
-        applicationId 'com.anonymous.myfirstexpoapp'
+        applicationId 'com.megatkhs.myfirstexpoapp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

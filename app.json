@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.megatkhs.my-first-expo-app"
+      "bundleIdentifier": "com.megatkhs.myfirstexpoapp"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.megatkhs.my-first-expo-app"
+      "package": "com.megatkhs.myfirstexpoapp"
     },
     "web": {
       "bundler": "metro",

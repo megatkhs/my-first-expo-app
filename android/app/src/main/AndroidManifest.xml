@@ -26,6 +26,7 @@
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="myfirstexpoapp"/>
         <data android:scheme="exp+my-first-expo-app"/>
+        <data android:scheme="exp+dev"/>
       </intent-filter>
     </activity>
   </application>
