@@ -27,6 +27,8 @@
         <data android:scheme="myfirstexpoapp"/>
         <data android:scheme="exp+my-first-expo-app"/>
         <data android:scheme="exp+dev"/>
+        <data android:scheme="exp+my-first-expo-appdev"/>
+        <data android:scheme="exp+my-first-expo-app-dev"/>
       </intent-filter>
     </activity>
   </application>
