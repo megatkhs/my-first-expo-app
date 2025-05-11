@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-first-expo-app",
-    "slug": "my-first-expo-app",
+    "name": "はじめてのExpoアプリ",
+    "slug": "はじアプ",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.myfirstexpoapp"
+      "bundleIdentifier": "com.megatkhs.my-first-expo-app"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.anonymous.myfirstexpoapp"
+      "package": "com.megatkhs.my-first-expo-app"
     },
     "web": {
       "bundler": "metro",
